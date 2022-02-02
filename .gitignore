@@ -1,0 +1,4 @@
+*.root
+*framework/
+*.ipynb_checkpoints/
+*.Identifier
